@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="cp1251"?>
+
+<table_data name="НеизвестнаяТаблица">
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">45</field>
+		<field name="ts_type_name">Автобус</field>
+		<field name="ts_type_code">b</field>
+	</row>
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">53</field>
+		<field name="ts_type_name">Автобус</field>
+		<field name="ts_type_code">b</field>
+	</row>
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">25</field>
+		<field name="ts_type_name">Автобус</field>
+		<field name="ts_type_code">b</field>
+	</row>
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">50</field>
+		<field name="ts_type_name">Автобус</field>
+		<field name="ts_type_code">b</field>
+	</row>
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">6</field>
+		<field name="ts_type_name">Троллейбус</field>
+		<field name="ts_type_code">l</field>
+	</row>
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">22</field>
+		<field name="ts_type_name">Автобус</field>
+		<field name="ts_type_code">b</field>
+	</row>
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">55</field>
+		<field name="ts_type_name">Автобус</field>
+		<field name="ts_type_code">b</field>
+	</row>
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">14</field>
+		<field name="ts_type_name">Троллейбус</field>
+		<field name="ts_type_code">l</field>
+	</row>
+	<row>
+		<field name="stop_id">2</field>
+		<field name="stop_name">Улица Коммунаров</field>
+		<field name="stop_direction">В сторону ул. Воровского</field>
+		<field name="stop_lat">56.838</field>
+		<field name="stop_long">53.223</field>
+		<field name="route_stop_route">10</field>
+		<field name="ts_type_name">Троллейбус</field>
+		<field name="ts_type_code">l</field>
+	</row>
+	</table_data>
